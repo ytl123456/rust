@@ -2,11 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/rust_learning/week1/calculator" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/rust_learning/week1/hello_world" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/rust_learning/week2/guessing_game" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/rust_learning/week2/todo_list" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/rust_learning/week3/student_manager" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/rust_learning/week4/text_parser" vcs="Git" />
   </component>
 </project>
